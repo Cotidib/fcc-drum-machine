@@ -7,7 +7,7 @@ Challenge project made for Front End Libraries Certification at freeCodeCamp.
 https://codepen.io/cotidi/full/mdmGmdK
 
 ## Assignment
-Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
+Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/MJyNMd.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
